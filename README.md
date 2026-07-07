@@ -1,4 +1,4 @@
-# Stephen-Hawking
+# Stepen-Hawking
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -24,7 +24,7 @@
 </head>
 <body>
     <header>
-        <h1>Isaac Newton</h1>
+        <h1>Stepen-hawking</h1>
         <p>Um cara importante</p>
     </header>
     <main>
